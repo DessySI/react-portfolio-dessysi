@@ -1,10 +1,15 @@
 {
   "files": {
-    "main.js": "/react-portfolio-dessysi/static/js/main.42d660c8.js",
+    "main.css": "/react-portfolio-dessysi/static/css/main.c394c8b0.css",
+    "main.js": "/react-portfolio-dessysi/static/js/main.fa41cf91.js",
+    "static/media/Desislava_Ivanova_CV.pdf": "/react-portfolio-dessysi/static/media/Desislava_Ivanova_CV.955bcdc44da8c9000cf0.pdf",
+    "static/media/profille_pic.jpg": "/react-portfolio-dessysi/static/media/profille_pic.47df0edae0cf1c184f25.jpg",
     "index.html": "/react-portfolio-dessysi/index.html",
-    "main.42d660c8.js.map": "/react-portfolio-dessysi/static/js/main.42d660c8.js.map"
+    "main.c394c8b0.css.map": "/react-portfolio-dessysi/static/css/main.c394c8b0.css.map",
+    "main.fa41cf91.js.map": "/react-portfolio-dessysi/static/js/main.fa41cf91.js.map"
   },
   "entrypoints": [
-    "static/js/main.42d660c8.js"
+    "static/css/main.c394c8b0.css",
+    "static/js/main.fa41cf91.js"
   ]
 }
